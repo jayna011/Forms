@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+        input{
+            width:30px;
+            height:35px;
+            border:2px solid gray;
+            border-radius: 5px;
+            margin-left:10px;
+        }
+    </style>
+    </head>
+    <body>
+        <h2>6-tapsirma</h2>
+        <form>
+            <h3>Gmail manzilinizge bargan 6 xanali kodti kiritin</h3>
+            <label></label>
+            <input type="text">
+            <input type="text">
+            <input type="text">
+            <input type="text">
+            <input type="text">
+            <input type="text">
+        </form>
+    </body>
+</html>
