@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h2>3-tapsirma</h2>
+        <form>
+            <label>ATINIZ:</label>
+            <input type="text">
+            <br>
+            <label>JASINIZ:</label>
+            <input type="text">
+            <br>
+            <label>Jinisiniz</label>
+            <fieldset>
+                <input type="radio" name="g"> <label>erkek</label>
+                <input type="radio" name="g"> <label>hayal</label>
+
+            </fieldset>
+            <button type="submit">Dizimnen otiw</button>
+            <button type="reset">Tazalaw</button>
+        </form>
+    </body>
+</html>
