@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h2>4-tapsirma</h2>
+        <h2>Qaysi tillerdi bilesiz?</h2>
+        <form>
+            <fieldset>
+                <input type="checkbox"> <label>Ingliz tili</label> <br>
+                <input type="checkbox"> <label>Arab tili</label> <br>
+                <input type="checkbox"> <label>Turk tili</label> 
+
+            </fieldset>
+            
+            <button type="reset">Tazalaw</button>
+        </form>
+    </body>
+</html>
